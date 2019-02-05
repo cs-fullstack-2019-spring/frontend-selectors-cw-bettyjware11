@@ -25,3 +25,5 @@ Paste the text below into a project and use ONLY javascript to complete the ques
 3) Change the color of the h1 statement to blue.
 
 4) Change the color of the last p tag to yellow.
+<hr>
+2 points. You were not supposed to change the HTML at all. You could have changed the background without an event listener. We learned that during the afternoon class.
